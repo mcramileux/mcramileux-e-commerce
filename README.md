@@ -66,11 +66,11 @@
 - For executing the routes, this application will help the user gather, create, update, and delete information. 
   - ![insomnia](https://github.com/mcramileux/mcramileux-e-commerce/assets/122607160/b4b21a2b-a40a-4b3a-9006-5a88b739887a)
 
-- For more information or guidelines on how to do the database, please watch the video [here]().
+- For more information or guidelines on how to do the database, please watch the video [here](https://drive.google.com/file/d/175sVj8wmzr9Z-PgJOx8LdIAH_UZdOjdA/view).
 
 ## Links
 - Github Repository: https://github.com/mcramileux/mcramileux-e-commerce
-- Google Drive Video: 
+- Google Drive Video: https://drive.google.com/file/d/175sVj8wmzr9Z-PgJOx8LdIAH_UZdOjdA/view
 
 ## Contributions
 * Contributions to this project won't be accepted as this is the reflection of the author's work hence the following questions and answers. Furthermore, forking or creating a pull request is acceptable.
