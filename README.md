@@ -6,7 +6,7 @@
 ## Description
 - This is an E-commerce application that runs using the backend packages. The stater code has been modified, it just need to configure on working Express.JS API to use Sequelize to interact with a MySQL database.
   
-- The user can do the following:
+- Using the Insomnia application, the user can test the following routes:
     - GET: to view all categories, products, and tags
     - PUT: to update a specific category, product, and tag
     - POST: to create a new category, product, and tag
@@ -22,6 +22,8 @@
   - [Technologies Used](#technologies-used)
   - [Installation](#installation)
   - [Usage and Screenshots](#usage-and-screenshots)
+  - [CLI](#cli)
+  - [Insomnia](#insomnia)
   - [Links](#links)
   - [Contributions](#contributions)
   - [License](#license)
@@ -48,6 +50,8 @@
       - DB_USER='your MYSQL username'
 
 ## Usage and Screenshots
+
+## CLI
 - In VS Code terminal, install all the npm package dependencies by typing 'npm i'. Make sure to open the right folder which is the main one: 'mcramileux-e-commerce'.
 
 - Open another terminal, to check the database use by typing in 'mysql -u root -p', followed by your  password and finally, 'source schema.sql;' to create and reload the database.
@@ -58,7 +62,9 @@
 - Finally, run 'npm start'. This command starts the server and every time the user add or delete codes, always run this to update the application.
 -  ![npm-start](https://github.com/mcramileux/mcramileux-e-commerce/assets/122607160/a8c70d18-a910-41c3-94ca-d026efcfb2e9)
 
-
+## Insomnia
+- For executing the routes, this application will help the user gather, create, update, and delete information. 
+  - ![insomnia](https://github.com/mcramileux/mcramileux-e-commerce/assets/122607160/b4b21a2b-a40a-4b3a-9006-5a88b739887a)
 
 - For more information or guidelines on how to do the database, please watch the video [here]().
 
