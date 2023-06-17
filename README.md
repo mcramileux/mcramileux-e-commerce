@@ -93,4 +93,5 @@ This project is under [MIT](https://choosealicense.com/licenses/mit/) license.
 - AskBCS Learning Assistants
   
 ## Author
-- © 2023 mcramileux
+- © 2023 mcramileux (the routes and models only)
+  
