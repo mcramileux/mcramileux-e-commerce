@@ -1,5 +1,5 @@
-McRamileux's E-Commerce
-13th Challenge: Object-Relational Mapping (ORM) - E-Commerce Back End
+# McRamileux's E-Commerce
+## 13th Challenge: Object-Relational Mapping (ORM) - E-Commerce Back End
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -7,19 +7,21 @@ McRamileux's E-Commerce
 - ADD DESCRIPTION HERE
 
 ## Table of Contents
-- [Description](#description)
-- [Table of Contents](#table-of-contents)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Links](#links)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributions](#contributions)
-- [License](#license)
-- [Questions](#questions)
-- [Reference](#reference)
-- [Acknowledgements and Credits](#acknowledgements-and-credits)
-- [Author](#author)
+- [McRamileux's E-Commerce](#mcramileuxs-e-commerce)
+  - [13th Challenge: Object-Relational Mapping (ORM) - E-Commerce Back End](#13th-challenge-object-relational-mapping-orm---e-commerce-back-end)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Technologies Used](#technologies-used)
+  - [Installation](#installation)
+  - [Links](#links)
+  - [Usage](#usage)
+  - [Screenshots](#screenshots)
+  - [Contributions](#contributions)
+  - [License](#license)
+  - [Questions](#questions)
+  - [Reference](#reference)
+  - [Acknowledgements and Credits](#acknowledgements-and-credits)
+  - [Author](#author)
 
 ## Technologies Used 
 * Javascript
